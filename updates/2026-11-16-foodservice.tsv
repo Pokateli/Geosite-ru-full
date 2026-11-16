@@ -1,0 +1,40 @@
+# Foodservice domain additions — 2026-11-16
+# Format: CATEGORY<TAB>geosite-rule
+# Make ROSCOMPOZOR-W-FOODSERVICE-ALL = union of these categories plus existing ROSCOMPOZOR-W-ROSTICS
+# Merge that union into ROSCOMPOZOR-W-ALL; preserve existing rules; de-duplicate (type,value)
+ROSCOMPOZOR-W-VKUSNO-I-TOCHKA	domain:vkusnoitochka.ru
+ROSCOMPOZOR-W-VKUSNO-I-TOCHKA	domain:rabotaitochka.ru
+ROSCOMPOZOR-W-VKUSNO-I-TOCHKA	domain:qsrsystem.ru
+ROSCOMPOZOR-W-BURGER-KING	domain:burgerkingrus.ru
+ROSCOMPOZOR-W-BURGER-KING	domain:burgerking.ru
+ROSCOMPOZOR-W-DODO-PIZZA	domain:dodopizza.ru
+ROSCOMPOZOR-W-DODO-PIZZA	domain:dodopizza.com
+ROSCOMPOZOR-W-DODO-PIZZA	domain:dodois.io
+ROSCOMPOZOR-W-DODO-PIZZA	domain:dodois.com
+ROSCOMPOZOR-W-DODO-PIZZA	domain:dodostatic.net
+ROSCOMPOZOR-W-DRINKIT	domain:drinkit.ru
+ROSCOMPOZOR-W-DRINKIT	domain:drinkit.io
+ROSCOMPOZOR-W-TEREMOK	domain:teremok.ru
+ROSCOMPOZOR-W-KROSHKA-KARTOSHKA	domain:kartoshka.com
+ROSCOMPOZOR-W-PAPA-JOHNS	domain:papajohns.ru
+ROSCOMPOZOR-W-TASHIR-PIZZA	domain:tashirpizza.ru
+ROSCOMPOZOR-W-SUSHI-WOK	domain:sushiwok.ru
+ROSCOMPOZOR-W-SHOKOLADNITSA	domain:shoko.ru
+ROSCOMPOZOR-W-COFIX	domain:cofix.global
+ROSCOMPOZOR-W-COFIX	full:cofix.uds.app
+ROSCOMPOZOR-W-ONEPLUS-COFFEE	domain:onepricecoffee.com
+ROSCOMPOZOR-W-ONEPLUS-COFFEE	domain:onepluscoffee.com
+ROSCOMPOZOR-W-SURF-COFFEE	domain:surfcoffee.ru
+ROSCOMPOZOR-W-STARDOGS	domain:stardogs.ru
+ROSCOMPOZOR-W-TANUKI	domain:tanuki.ru
+ROSCOMPOZOR-W-YAKITORIYA	domain:yakitoriya.ru
+ROSCOMPOZOR-W-MYBOX	domain:mybox.ru
+ROSCOMPOZOR-W-BLACK-STAR-BURGER	domain:blackstarburger.ru
+ROSCOMPOZOR-W-SUBJOY	domain:subjoy.ru
+ROSCOMPOZOR-W-STARS-COFFEE	domain:stars-coffee.ru
+ROSCOMPOZOR-W-PIZZAFABRIKA	domain:pizzafabrika.ru
+ROSCOMPOZOR-W-DOSTAEVSKY	domain:dostaevsky.ru
+ROSCOMPOZOR-W-MNOGO-LOSOSYA	domain:mnogolososya.ru
+ROSCOMPOZOR-W-EVRAZIA	domain:evrasia.rest
+ROSCOMPOZOR-W-EVRAZIA	domain:evrasia.spb.ru
+# Existing ROSCOMPOZOR-W-ROSTICS (unchanged): rostics.ru, uni.rest, unirest.tech, rabotavrostics.ru, full:s82079.cdn.ngenix.net
