@@ -37,3 +37,9 @@ domain:sedo.keydisk.ru
 domain:rpn.keydisk.ru
 domain:callback.keydisk.ru
 domain:1cservice.spark-interfax.ru
+
+# Officially documented integrations (1C-EDO / SFR)
+domain:1c-api.taxcom.ru
+full:sedo.fss.ru
+full:ecp.sfr.gov.ru
+full:eln.sfr.gov.ru
