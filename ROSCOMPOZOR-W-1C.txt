@@ -1,0 +1,39 @@
+# ROSCOMPOZOR-W-1C (GeoSite root-domain rules)
+# This one tag contains the 1C family and infrastructure; compile its entries into ROSCOMPOZOR-W-ALL as well.
+# A root-domain rule matches the root hostname and its subdomains.
+
+domain:1c.ru
+domain:1c.com
+domain:1c.eu
+domain:1c.kz
+domain:1c-dn.com
+domain:1c.ai
+domain:1cfresh.com
+domain:1cfresh.kz
+domain:1cfresh.by
+domain:1cfresh.az
+domain:1c-cloud.kg
+domain:clobus.uz
+domain:1cbo.ru
+domain:1cbo.kz
+domain:1c-edo.ru
+domain:1c-etp.ru
+domain:1c-report.ru
+domain:1c-cabinet.ru
+domain:1c.market
+domain:1cbn.ru
+domain:1c.link
+domain:1-connect.ru
+domain:mag1c.ru
+domain:umi.ru
+domain:1csoft.ru
+domain:buh.ru
+domain:1c-kpd.ru
+domain:1c-prosto.ru
+domain:1c-interes.ru
+domain:regservice.keydisk.ru
+domain:report.keydisk.ru
+domain:sedo.keydisk.ru
+domain:rpn.keydisk.ru
+domain:callback.keydisk.ru
+domain:1cservice.spark-interfax.ru
